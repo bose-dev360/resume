@@ -1,0 +1,283 @@
+{
+    "Name": "Bose Sandip",
+    "Position": "Blockchain Engineer, Full-Stack Web Developer",
+    "Description": "Welcome to my website. My name is Bose Sandip,I ❤️ Programming.",
+    "Address": "430 Whiteman Street, Camden, New Jersey, United States",
+    "Company": "Perfexion, Plymouth Meeting, PA, US",
+    "School": "Kean University",
+    "SocialMedias": [
+      "https://github.com/bose-dev360",
+      "https://www.linkedin.com/",
+      "https://www.facebook.com/"
+    ],
+    "experiences": [
+      {
+        "companyName": "Perfexion",
+        "logo": "images/001.png",
+        "url": "https://www.pfxn.com/",
+        "roles": [
+          {
+            "title": "Web developer",
+            "description": "Developed web-based Software.",
+            "startDate": "2018-01-08",
+            "endDate": "2021-10-05",
+            "location": "New Jersey, US"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "Programming Language",
+        "SkillSet": [
+          {
+            "Name": "C/C++",
+            "Hot": true
+          },
+          {
+            "Name": "Java",
+            "Hot": false
+          },
+          {
+            "Name": "C#",
+            "Hot": false
+          },
+          {
+            "Name": "Python",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Blockchain",
+        "SkillSet": [
+          {
+            "Name": "Solidity",
+            "Hot": true
+          },
+          {
+            "Name": "Smart Contracts",
+            "Hot": false
+          },
+          {
+            "Name": "Ethereum",
+            "Hot": true
+          },
+          {
+            "Name": "BSC",
+            "Hot": false
+          },
+          {
+            "Name": "Solana",
+            "Hot": false
+          },
+          {
+            "Name": "Polygon",
+            "Hot": false
+          },
+          {
+            "Name": "Rust",
+            "Hot": false
+          },
+          {
+            "Name": "Web3",
+            "Hot": true
+          },
+          {
+            "Name": "Truffle",
+            "Hot": false
+          },
+          {
+            "Name": "Hardhat",
+            "Hot": true
+          },
+          {
+            "Name": "Metamask",
+            "Hot": true
+          }
+        ]
+      },
+      {
+        "Area": "Web Application Development",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "TypeScript",
+            "Hot": false
+          },
+          {
+            "Name": "HTML5",
+            "Hot": true
+          },
+          {
+            "Name": "CSS (SCSS/SASS)",
+            "Hot": true
+          },
+          {
+            "Name": "React",
+            "Hot": true
+          },
+          {
+            "Name": "Redux",
+            "Hot": true
+          },
+          {
+            "Name": "Vue",
+            "Hot": false
+          },
+          {
+            "Name": "Angular",
+            "Hot": true
+          },
+          {
+            "Name": "Node.js",
+            "Hot": true
+          },
+          {
+            "Name": "JQuery",
+            "Hot": false
+          },
+          {
+            "Name": "NPM",
+            "Hot": false
+          },
+          {
+            "Name": "Grunt",
+            "Hot": false
+          },
+          {
+            "Name": "Jamine JavaScript Unit Test",
+            "Hot": true
+          },
+          {
+            "Name": "WebPack",
+            "Hot": false
+          },
+          {
+            "Name": "UX/UI Design",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Database",
+        "SkillSet": [
+          {
+            "Name": "Microsoft SQL",
+            "Hot": false
+          },
+          {
+            "Name": "My SQL",
+            "Hot": true
+          },
+          {
+            "Name": "MongoDB",
+            "Hot": true
+          },
+          {
+            "Name": "DynamoDB",
+            "Hot": false
+          },
+          {
+            "Name": "Postgresql",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Platforms",
+        "SkillSet": [
+          {
+            "Name": "Windows",
+            "Hot": false
+          },
+          {
+            "Name": "Unix/Linux",
+            "Hot": false
+          },
+          {
+            "Name": "Mac OS",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Test Driven Development",
+        "SkillSet": [
+          {
+            "Name": "Junit Test",
+            "Hot": false
+          },
+          {
+            "Name": "Jasmine Test",
+            "Hot": true
+          },
+          {
+            "Name": "MSTest",
+            "Hot": false
+          },
+          {
+            "Name": "Selenium Functional Test",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Software Development Tools and Concepts",
+        "SkillSet": [
+          {
+            "Name": "Git",
+            "Hot": true
+          },
+          {
+            "Name": "Docker",
+            "Hot": false
+          },
+          {
+            "Name": "Jenkins",
+            "Hot": false
+          },
+          {
+            "Name": "Agile",
+            "Hot": true
+          }
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Name": "DEX Platform",
+        "Description": "DEX Platform",
+        "ScreenShotURL": "./001.png",
+        "ProjectLink":"https://hopperswap.io/"
+      },
+      {
+        "Name": "CryptoExchange",
+        "Description": "CryptoExchange Site",
+        "ScreenShotURL": "./002.png",
+        "ProjectLink":"https://www.worldcoinindex.com/"
+      },
+      {
+        "Name": "ISA Token",
+        "Description": "BEP20 Token",
+        "ScreenShotURL": "./003.png",
+        "ProjectLink":"https://bscscan.com/address/0x5610bf2bf5abe5750bdbce311631dee2afa2cd24#code"
+      }
+    ],
+    "Education": [
+      {
+        "SchoolName": "Kean University",
+        "Date": "2013 - 2017",
+        "Degree": "Master's Degree of Computer Science",
+        "Location": "New Jersey, US",
+        "Description": "Master's Degree of Computer Science",
+        "SchoolImage": "images/university.png",
+        "SchoolLink": "",
+        "Awards": [
+        ]
+      }
+    ]
+  }
