@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a8c293574ef34bc7d47c",
+    "revision": "602b7c62acc69bd6d5f7",
     "url": "/resume/static/css/main.8631d4c5.chunk.css"
   },
   {
-    "revision": "a8c293574ef34bc7d47c",
-    "url": "/resume/static/js/main.145fae21.chunk.js"
+    "revision": "602b7c62acc69bd6d5f7",
+    "url": "/resume/static/js/main.a7fc20d3.chunk.js"
   },
   {
     "revision": "699f89d957187d0ac949",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/resume/static/js/2.11962201.chunk.js"
   },
   {
-    "revision": "686c6799af89d7e925863f2048753d18",
-    "url": "/resume/static/media/self.686c6799.jpg"
+    "revision": "12dd84517b9c34f7f9b35ff51bb2c8dd",
+    "url": "/resume/static/media/self.12dd8451.jpg"
   },
   {
     "revision": "563591ad9577eb6060c41ee6343ffd38",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/resume/static/media/demo.67edcff8.svg"
   },
   {
-    "revision": "583bdea184735edc7c884e9afd7b381d",
+    "revision": "5bd77668c52d6d35eb300e953aa49468",
     "url": "/resume/index.html"
   }
 ];
