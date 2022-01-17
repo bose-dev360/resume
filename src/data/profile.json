@@ -2,9 +2,9 @@
     "Name": "Bose Sandip",
     "Position": "Blockchain Engineer, Full-Stack Web Developer",
     "Description": "Welcome to my website. My name is Bose Sandip,I ❤️ Programming.",
-    "Address": "430 Whiteman Street, Camden, New Jersey, United States",
-    "Company": "Perfexion, Plymouth Meeting, PA, US",
-    "School": "Kean University",
+    "Address": "221 Wilmington Ave, Toronto, Ontario, Canada",
+    "Company": "Vela Software, Canada",
+    "School": "Ontario Tech University",
     "SocialMedias": [
       "https://github.com/bose-dev360",
       "https://www.linkedin.com/",
@@ -12,16 +12,16 @@
     ],
     "experiences": [
       {
-        "companyName": "Perfexion",
+        "companyName": "Vela Software",
         "logo": "images/001.png",
-        "url": "https://www.pfxn.com/",
+        "url": "https://velasoftwaregroup.com/",
         "roles": [
           {
             "title": "Web developer",
             "description": "Developed web-based Software.",
             "startDate": "2018-01-08",
             "endDate": "2021-10-05",
-            "location": "New Jersey, US"
+            "location": "Ontario, Canada"
           }
         ]
       }
@@ -269,10 +269,10 @@
     ],
     "Education": [
       {
-        "SchoolName": "Kean University",
+        "SchoolName": "Ontario Tech University",
         "Date": "2013 - 2017",
         "Degree": "Master's Degree of Computer Science",
-        "Location": "New Jersey, US",
+        "Location": "Ontario, Canada",
         "Description": "Master's Degree of Computer Science",
         "SchoolImage": "images/university.png",
         "SchoolLink": "",
